@@ -1,1 +1,1 @@
-News APP made with react by fetching news api
+A simple News application made with reactJS by fetching news api
